@@ -1,0 +1,46 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap";
+@import "~normalize.css";
+
+body {
+                             //background-image: url();
+    
+}
+
+.navbar navbar-expand-lg navbar-light bg-light {
+    
+}
+
+footer {
+    background-color: magenta;
+                                       //height: calc(100vh - 200px);
+
+}
+p {
+    color: lime;
+    text-align: center;
+    
+}
+
+#mainpageparagraph {
+    color: darkgreen;
+    background-image: url(https://i.pinimg.com/originals/98/b0/31/98b03136ae446484568334ffa1aa8d20.png);
+    
+}
+
+#str2p {
+    background-color: purple;
+}
+
+#str3p {
+    background-color: purple;
+}
+
+h5 {
+    color: lime;
+}
+
+html {
+    background-color: purple;
+}
